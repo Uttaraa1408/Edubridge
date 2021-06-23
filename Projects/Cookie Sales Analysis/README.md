@@ -21,6 +21,6 @@ Profit: Profit Obtained
 
 Date: Date
 
-In Analysis is done using Python.
+The Analysis is done using Python.
 
 
